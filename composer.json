@@ -1,0 +1,11 @@
+{
+    "name": "testpackage/payment-manager",
+    "description": "A simple payment management package.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Testpackage\\PaymentManager\\": "src/"
+        }
+    },
+    "require": {}
+}
